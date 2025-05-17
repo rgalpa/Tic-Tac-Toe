@@ -1,4 +1,4 @@
-# ❌⭕ Tic Tac Toe – Java Swing Game
+# ❌⭕ Tic Tac Toe 
 
 A clean, beginner-friendly **Tic Tac Toe** game built with **Java Swing**. This version includes **Single Player** (vs Computer) and **Multiplayer** (Player vs Player) modes.
 
