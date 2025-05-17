@@ -31,11 +31,3 @@ Make sure you have the following installed:
 - Optional: A Java IDE such as **DrJava**, **IntelliJ IDEA**, **Eclipse**, or **NetBeans**
 
 ---
-
-## 📦 Installation & Running
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/java-tic-tac-toe.git
-cd java-tic-tac-toe
